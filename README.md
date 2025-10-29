@@ -9,5 +9,7 @@ Players control a **jellyfish** to avoid other fish and collect coins to increas
 
 | Category | Technology |
 |-----------|-------------|
-| Game Engine | JavaScript |
+| Language | JavaScript |
+| Game Engine | Phaser |
 | Build Tool | Yarn |
+
